@@ -1,5 +1,5 @@
 {
-    "name": "lankit/datatables-bundle",
+    "name": "wtfred/datatables-bundle",
     "description": "DataTables.js server-side processing for Doctrine Entities",
     "keywords": ["LanKitDatatables","LanKit"],
     "type": "symfony-bundle",
